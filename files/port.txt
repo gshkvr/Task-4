@@ -1,0 +1,10 @@
+Ship1 3 67
+Ship2 19 32
+Ship3 0 12
+Ship4 50 65
+Ship5 10 39
+Ship6 0 18
+Ship7 0 17
+Ship8 0 55
+Ship9 0 32
+Ship10 0 2
